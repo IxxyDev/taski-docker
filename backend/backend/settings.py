@@ -8,7 +8,7 @@ SECRET_KEY = ('django-insecure-'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['ixxy.hopto.org']
+ALLOWED_HOSTS = ['ixxy.hopto.org', '127.0.0.1', '158.160.0.89']
 
 # Application definition
 
